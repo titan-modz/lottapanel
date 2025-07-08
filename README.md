@@ -31,4 +31,4 @@ Contributions to enhance the functionality or performance of the SkyHostPanel ar
 
 
 
-- made by hopingboyz
+- made by azimeeeeee
