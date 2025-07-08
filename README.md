@@ -1,20 +1,20 @@
 
-<h1 align="center">SkyHostPanel</h1>
+<h1 align="center">LottaPanel</h1>
 ## Overview
 
 ## Installation
 1. Clone the repository or download:
-`git clone https://github.com/titan-modz/skyhostpanel`
+`git clone https://github.com/titan-modz/lottapanel`
 
 ` curl -sL https://deb.nodesource.com/setup_23.x | sudo bash - `
 
 `apt-get install nodejs git`
 
 3. go to panel directory:
-`cd skyhostpanel`
+`cd lottapanell`
 
 4. Install some importent:
-`apt install zip -y && unzip SkyHostPanel.zip && cd skyhostpanel`
+`apt install zip -y && unzip lottapanel.zip && cd lottapanel`
 
 5. Install dependencies:
 `npm install && npm run seed && npm run createUser`
