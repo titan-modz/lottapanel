@@ -11,7 +11,7 @@
 `apt-get install nodejs git`
 
 3. go to panel directory:
-`cd lottapanell`
+`cd lottapanel`
 
 4. Install some importent:
 `apt install zip -y && unzip lottapanel.zip && cd lottapanel`
