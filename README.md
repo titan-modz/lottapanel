@@ -22,8 +22,6 @@
 6. Start the Panel:
 `node . # or use pm2 to keep it online`
 
-## Contributing
-Contributions to enhance the functionality or performance of the SkyHostPanel are encouraged. Please submit pull requests for any enhancements.
 
 ## License
 (c) 2025 Azimeeeee . This software is licensed under the MIT License.
