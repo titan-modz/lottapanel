@@ -14,7 +14,7 @@
 `cd lottapanel`
 
 4. Install some importent:
-`apt install zip -y && unzip lottapanel.zip && cd lottapanel`
+`apt install zip -y && unzip LottaPanel.zip && cd lottapanel`
 
 5. Install dependencies:
 `npm install && npm run seed && npm run createUser`
